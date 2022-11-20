@@ -2,8 +2,7 @@
 
 In this repository is stored the solution for the Assignment 3 of the course Algorithmic Methods of Data Mining (ADM), a.y. 2022/2023, Sapienza.
 
-Group Members [Group 23]
-
+## Group Members [Group 23]
 
 Chiara Sammarco - 1913440 - sammarco.1913440@studenti.uniroma1.it
 
@@ -11,9 +10,8 @@ Viktoriia Vlasenko - 2088928 - viktoriiavvlasenko@gmail.com
 
 Nasim Sadeghi Khanshir - 2056375 - nasiimsadeghii@gmail.com
 
-## Script descriptions:
 
----------------------------------------------------
+## Script descriptions:
 
 1. `README.md`:
    
