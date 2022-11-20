@@ -17,14 +17,22 @@ Nasim Sadeghi Khanshir - 2056375 - nasiimsadeghii@gmail.com
    
    > A markdown file which you are reading right now explaining how we worked and the descriptions of our Github repository.
 
-2. `main.ipynb`:
+2. `R1-R6.ipynb`:
    
-   >This script provides our solution for assigment
+   >This script provides our solution for assigment for research questions R1 and R6
+   
+3. `R2.ipynb`:
+   
+   >This script provides our solution for assigment for research question R2
+   
+4. `R7.ipynb`:
+   
+   >This script provides our solution for assigment for research questions R7
 
-3. `adm3.py`:
+5. `adm3.py`:
    
    > A python file with functions needed for assigment.
    
-4. `CommandLine.sh`: 
+6. `CommandLine.sh`: 
 
    > A bash shell script file contains the prepared script to answer to the command line question
